@@ -1,3 +1,1 @@
-window.onload = () => {
-  Swal.fire("Hello");
-}
+Swal.fire("Hello");
