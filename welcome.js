@@ -1,7 +1,7 @@
-window.onload = ()=>{Seal.fire({
-Position: “center’,
-Icon: “success”,
-Title: “Hello welcome”,
+window.onload = () => {Swal.fire({
+position: “center”,
+icon: “success”,
+title: “Hello welcome”,
 showConfirmButton: false,
 Timer: 1500
 });
