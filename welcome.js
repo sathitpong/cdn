@@ -6,4 +6,4 @@ title: "Hello welcome 2",
 showConfirmButton: false,
 timer: 1500
 });
-}
+   }
