@@ -1,8 +1,1 @@
-window.onload = () => {Swal.fire({
-position: “center”,
-icon: “success”,
-title: “Hello welcome”,
-showConfirmButton: false,
-Timer: 1500
-});
-}
+window.onload = ('document.getElementById("demo").innerHTML = "Hello JavaScript!"')
