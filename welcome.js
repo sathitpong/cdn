@@ -1,3 +1,4 @@
+<script>
 window.onload = () => {
   Swal.fire({
 position: "center",
@@ -7,3 +8,4 @@ showConfirmButton: false,
 timer: 1500
 });
 }
+</script>
