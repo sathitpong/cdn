@@ -3,6 +3,6 @@ position: “center”,
 icon: “success”,
 title: “Hello welcome”,
 showConfirmButton: false,
-Timer: 1500
+timer: 1500
 });
 }
