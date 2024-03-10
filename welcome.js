@@ -1,7 +1,8 @@
-window.onload = () => {Swal.fire({
+window.onload = () => {
+  Swal.fire({
 position: "center",
 icon: "success",
-title: "Hello welcome",
+title: "Hello welcome2",
 showConfirmButton: false,
 timer: 1500
 });
